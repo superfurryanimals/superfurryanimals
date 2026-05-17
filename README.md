@@ -1,5 +1,3 @@
-—✦︎════════——————————![](https://komarev.com/ghpvc/?username=britpopyaoi&label=FILMST★RS)——————————════════✦︎—
-
 <p align="center"> <img width="500" height="506" alt="image" src="https://github.com/user-attachments/assets/38f05d58-5003-4a56-9be9-6475c72c486b" />
 <p align="center"> <img width="486" height="232" alt="image" src="https://github.com/user-attachments/assets/ef162241-a27e-4ae7-b134-632294f73e48" />
 
