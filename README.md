@@ -3,6 +3,6 @@
 
 <p align="center"> ════────✦︎────════
     
-<p align="center"> <a href="https://pronouns.cc/@toothlily" target="_blank">𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.𝐂𝐂</a> <a href="https://www.last.fm/user/shmeebz" target="_blank">𝐋𝐚𝐬𝐭.𝐅𝐌</a> <a href="https://songmachine.atabook.org" target="_blank">𝐀𝐓𝐀𝐛𝐨𝐨𝐤</a> 
+<p align="center"> <a href="https://pronouns.cc/@toothlily" target="_blank">𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.𝐂𝐂</a> <a href="https://www.last.fm/user/shmeebz" target="_blank">𝐋𝐚𝐬𝐭.𝐅𝐌</a> <a href="https://britpop.atabook.org" target="_blank">𝐀𝐓𝐀𝐛𝐨𝐨𝐤</a> 
 
 <p align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajqe2s5sfc6f6zpnj3s7mkta2m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
