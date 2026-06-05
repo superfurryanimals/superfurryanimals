@@ -8,5 +8,3 @@
 <p align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajqe2s5sfc6f6zpnj3s7mkta2m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"
 
 <p align="center"> <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ajqe2s5sfc6f6zpnj3s7mkta2m">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ajqe2s5sfc6f6zpnj3s7mkta2m" alt="Data Card for Spotify">
-</a>
